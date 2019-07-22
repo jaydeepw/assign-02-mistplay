@@ -4,6 +4,7 @@ A simple app to showcase MVVM with paging and search functionality
 # Assumptions and deliberations
 - The app being a simple search catalogue, I have not used [Fragments](https://developer.android.com/guide/components/fragments)
 but implemented the functionality within the activity itself
+- BaseClasses are avoided where not needed
 
 
 # Application architecture and technical details
